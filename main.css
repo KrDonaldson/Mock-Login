@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+
+.stretch {
+    display:flex;
+    flex-direction: column;
+}
+
+.password{
+    display:flex;
+    justify-content: space-between;
+}
